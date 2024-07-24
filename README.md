@@ -12,19 +12,19 @@ To cache data locally while online and retrieve it when the application transiti
 Steps to Implement Local Data Caching
 </br>
 Check Network Status:
-</br></br>
-Implement a way to check the network status (online or offline).
 </br>
+Implement a way to check the network status (online or offline).
+</br></br>
 Fetch Data When Online:
 </br>
 When the application is online, fetch the data from the server.
-</br>
+</br></br>
 Cache Data Locally:
-</br></br>
-Store the fetched data in a local database or file system for later use.
 </br>
-Retrieve Data When Offline:
+Store the fetched data in a local database or file system for later use.
 </br></br>
+Retrieve Data When Offline:
+</br>
 When the application is offline, retrieve the data from the local cache.
 </br>
 </br>

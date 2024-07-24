@@ -4,10 +4,7 @@
  This ToyProject make modern Android development with Compose, Dagger-Hilt, Coroutines, Jetpack based on MVI architecture.
 </br>
 </br>
-
-</br>
-This is an application designed to provide information for the purpose of introducing products.
-</br>
+</p>
 News Api : https://newsapi.org/v2/top-headlines?q=book&apiKey={api-key}
 </br></br>
 To cache data locally while online and retrieve it when the application transitions to offline mode, you can follow these steps:

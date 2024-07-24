@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable icon_arrow_left
+drawable icon_arrow_right
+drawable icon_refresh_48px
+drawable load_waiting
+font notosanskr_bold
+font notosanskr_regular
+mipmap ic_launcher
+mipmap ic_launcher_adaptive_back
+mipmap ic_launcher_adaptive_fore
+mipmap ic_launcher_round
+mipmap intro_launcher
+string app_name
+style Theme.NewsSample
+xml backup_rules
+xml data_extraction_rules
